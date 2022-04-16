@@ -1,0 +1,15 @@
+C:\Users\90554\Desktop\tip-donusumleriii\bin\Debug\net6.0\tip-donusumleriii.exe
+C:\Users\90554\Desktop\tip-donusumleriii\bin\Debug\net6.0\tip-donusumleriii.deps.json
+C:\Users\90554\Desktop\tip-donusumleriii\bin\Debug\net6.0\tip-donusumleriii.runtimeconfig.json
+C:\Users\90554\Desktop\tip-donusumleriii\bin\Debug\net6.0\tip-donusumleriii.dll
+C:\Users\90554\Desktop\tip-donusumleriii\bin\Debug\net6.0\tip-donusumleriii.pdb
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.csproj.AssemblyReference.cache
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.AssemblyInfoInputs.cache
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.AssemblyInfo.cs
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.csproj.CoreCompileInputs.cache
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.dll
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\refint\tip-donusumleriii.dll
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.pdb
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\tip-donusumleriii.genruntimeconfig.cache
+C:\Users\90554\Desktop\tip-donusumleriii\obj\Debug\net6.0\ref\tip-donusumleriii.dll
